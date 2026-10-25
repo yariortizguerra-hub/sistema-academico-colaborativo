@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Herramientas
+.vscode/
+.idea/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Variables locales y secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Evidencias locales; descomentar si no deben versionarse
+# evidencias/
