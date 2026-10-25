@@ -99,3 +99,4 @@ Nunca publiques contraseñas, tokens, claves privadas ni archivos `.env` con sec
 
 ## Limitaciones
 El proyecto no persiste datos, no autentica usuarios y no debe usarse como sistema académico de producción.
+Registro de estudiantes revisado
